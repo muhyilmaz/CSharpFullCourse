@@ -1,0 +1,11 @@
+C:\Users\MUHAMMED\source\repos\CSharpCourse\CA.TypesVariables\bin\Debug\netcoreapp3.1\CA.TypesVariables.exe
+C:\Users\MUHAMMED\source\repos\CSharpCourse\CA.TypesVariables\bin\Debug\netcoreapp3.1\CA.TypesVariables.deps.json
+C:\Users\MUHAMMED\source\repos\CSharpCourse\CA.TypesVariables\bin\Debug\netcoreapp3.1\CA.TypesVariables.runtimeconfig.json
+C:\Users\MUHAMMED\source\repos\CSharpCourse\CA.TypesVariables\bin\Debug\netcoreapp3.1\CA.TypesVariables.runtimeconfig.dev.json
+C:\Users\MUHAMMED\source\repos\CSharpCourse\CA.TypesVariables\bin\Debug\netcoreapp3.1\CA.TypesVariables.dll
+C:\Users\MUHAMMED\source\repos\CSharpCourse\CA.TypesVariables\bin\Debug\netcoreapp3.1\CA.TypesVariables.pdb
+C:\Users\MUHAMMED\source\repos\CSharpCourse\CA.TypesVariables\obj\Debug\netcoreapp3.1\CA.TypesVariables.csprojAssemblyReference.cache
+C:\Users\MUHAMMED\source\repos\CSharpCourse\CA.TypesVariables\obj\Debug\netcoreapp3.1\CA.TypesVariables.AssemblyInfoInputs.cache
+C:\Users\MUHAMMED\source\repos\CSharpCourse\CA.TypesVariables\obj\Debug\netcoreapp3.1\CA.TypesVariables.AssemblyInfo.cs
+C:\Users\MUHAMMED\source\repos\CSharpCourse\CA.TypesVariables\obj\Debug\netcoreapp3.1\CA.TypesVariables.dll
+C:\Users\MUHAMMED\source\repos\CSharpCourse\CA.TypesVariables\obj\Debug\netcoreapp3.1\CA.TypesVariables.pdb

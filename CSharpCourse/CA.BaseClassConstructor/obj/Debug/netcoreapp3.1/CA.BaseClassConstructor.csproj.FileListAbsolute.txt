@@ -1,0 +1,10 @@
+C:\Users\MUHAMMED\source\repos\CSharpCourse\CA.BaseClassConstructor\bin\Debug\netcoreapp3.1\CA.BaseClassConstructor.exe
+C:\Users\MUHAMMED\source\repos\CSharpCourse\CA.BaseClassConstructor\bin\Debug\netcoreapp3.1\CA.BaseClassConstructor.deps.json
+C:\Users\MUHAMMED\source\repos\CSharpCourse\CA.BaseClassConstructor\bin\Debug\netcoreapp3.1\CA.BaseClassConstructor.runtimeconfig.json
+C:\Users\MUHAMMED\source\repos\CSharpCourse\CA.BaseClassConstructor\bin\Debug\netcoreapp3.1\CA.BaseClassConstructor.runtimeconfig.dev.json
+C:\Users\MUHAMMED\source\repos\CSharpCourse\CA.BaseClassConstructor\bin\Debug\netcoreapp3.1\CA.BaseClassConstructor.dll
+C:\Users\MUHAMMED\source\repos\CSharpCourse\CA.BaseClassConstructor\bin\Debug\netcoreapp3.1\CA.BaseClassConstructor.pdb
+C:\Users\MUHAMMED\source\repos\CSharpCourse\CA.BaseClassConstructor\obj\Debug\netcoreapp3.1\CA.BaseClassConstructor.AssemblyInfoInputs.cache
+C:\Users\MUHAMMED\source\repos\CSharpCourse\CA.BaseClassConstructor\obj\Debug\netcoreapp3.1\CA.BaseClassConstructor.AssemblyInfo.cs
+C:\Users\MUHAMMED\source\repos\CSharpCourse\CA.BaseClassConstructor\obj\Debug\netcoreapp3.1\CA.BaseClassConstructor.dll
+C:\Users\MUHAMMED\source\repos\CSharpCourse\CA.BaseClassConstructor\obj\Debug\netcoreapp3.1\CA.BaseClassConstructor.pdb

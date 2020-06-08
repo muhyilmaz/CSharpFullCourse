@@ -1,0 +1,11 @@
+C:\Users\MUHAMMED\source\repos\CSharpCourse\CA.RecapDemo_2\bin\Debug\netcoreapp3.1\CA.RecapDemo_2.exe
+C:\Users\MUHAMMED\source\repos\CSharpCourse\CA.RecapDemo_2\bin\Debug\netcoreapp3.1\CA.RecapDemo_2.deps.json
+C:\Users\MUHAMMED\source\repos\CSharpCourse\CA.RecapDemo_2\bin\Debug\netcoreapp3.1\CA.RecapDemo_2.runtimeconfig.json
+C:\Users\MUHAMMED\source\repos\CSharpCourse\CA.RecapDemo_2\bin\Debug\netcoreapp3.1\CA.RecapDemo_2.runtimeconfig.dev.json
+C:\Users\MUHAMMED\source\repos\CSharpCourse\CA.RecapDemo_2\bin\Debug\netcoreapp3.1\CA.RecapDemo_2.dll
+C:\Users\MUHAMMED\source\repos\CSharpCourse\CA.RecapDemo_2\bin\Debug\netcoreapp3.1\CA.RecapDemo_2.pdb
+C:\Users\MUHAMMED\source\repos\CSharpCourse\CA.RecapDemo_2\obj\Debug\netcoreapp3.1\CA.RecapDemo_2.AssemblyInfoInputs.cache
+C:\Users\MUHAMMED\source\repos\CSharpCourse\CA.RecapDemo_2\obj\Debug\netcoreapp3.1\CA.RecapDemo_2.AssemblyInfo.cs
+C:\Users\MUHAMMED\source\repos\CSharpCourse\CA.RecapDemo_2\obj\Debug\netcoreapp3.1\CA.RecapDemo_2.dll
+C:\Users\MUHAMMED\source\repos\CSharpCourse\CA.RecapDemo_2\obj\Debug\netcoreapp3.1\CA.RecapDemo_2.pdb
+C:\Users\MUHAMMED\source\repos\CSharpCourse\CA.RecapDemo_2\obj\Debug\netcoreapp3.1\CA.RecapDemo_2.csprojAssemblyReference.cache

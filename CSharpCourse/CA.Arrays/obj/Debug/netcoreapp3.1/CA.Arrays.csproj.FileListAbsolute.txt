@@ -1,0 +1,11 @@
+C:\Users\MUHAMMED\source\repos\CSharpCourse\CA.Arrays\bin\Debug\netcoreapp3.1\CA.Arrays.exe
+C:\Users\MUHAMMED\source\repos\CSharpCourse\CA.Arrays\bin\Debug\netcoreapp3.1\CA.Arrays.deps.json
+C:\Users\MUHAMMED\source\repos\CSharpCourse\CA.Arrays\bin\Debug\netcoreapp3.1\CA.Arrays.runtimeconfig.json
+C:\Users\MUHAMMED\source\repos\CSharpCourse\CA.Arrays\bin\Debug\netcoreapp3.1\CA.Arrays.runtimeconfig.dev.json
+C:\Users\MUHAMMED\source\repos\CSharpCourse\CA.Arrays\bin\Debug\netcoreapp3.1\CA.Arrays.dll
+C:\Users\MUHAMMED\source\repos\CSharpCourse\CA.Arrays\bin\Debug\netcoreapp3.1\CA.Arrays.pdb
+C:\Users\MUHAMMED\source\repos\CSharpCourse\CA.Arrays\obj\Debug\netcoreapp3.1\CA.Arrays.csprojAssemblyReference.cache
+C:\Users\MUHAMMED\source\repos\CSharpCourse\CA.Arrays\obj\Debug\netcoreapp3.1\CA.Arrays.AssemblyInfoInputs.cache
+C:\Users\MUHAMMED\source\repos\CSharpCourse\CA.Arrays\obj\Debug\netcoreapp3.1\CA.Arrays.AssemblyInfo.cs
+C:\Users\MUHAMMED\source\repos\CSharpCourse\CA.Arrays\obj\Debug\netcoreapp3.1\CA.Arrays.dll
+C:\Users\MUHAMMED\source\repos\CSharpCourse\CA.Arrays\obj\Debug\netcoreapp3.1\CA.Arrays.pdb

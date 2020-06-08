@@ -1,0 +1,11 @@
+C:\Users\MUHAMMED\source\repos\CSharpCourse\CA.Interfaces\bin\Debug\netcoreapp3.1\CA.Interfaces.exe
+C:\Users\MUHAMMED\source\repos\CSharpCourse\CA.Interfaces\bin\Debug\netcoreapp3.1\CA.Interfaces.deps.json
+C:\Users\MUHAMMED\source\repos\CSharpCourse\CA.Interfaces\bin\Debug\netcoreapp3.1\CA.Interfaces.runtimeconfig.json
+C:\Users\MUHAMMED\source\repos\CSharpCourse\CA.Interfaces\bin\Debug\netcoreapp3.1\CA.Interfaces.runtimeconfig.dev.json
+C:\Users\MUHAMMED\source\repos\CSharpCourse\CA.Interfaces\bin\Debug\netcoreapp3.1\CA.Interfaces.dll
+C:\Users\MUHAMMED\source\repos\CSharpCourse\CA.Interfaces\bin\Debug\netcoreapp3.1\CA.Interfaces.pdb
+C:\Users\MUHAMMED\source\repos\CSharpCourse\CA.Interfaces\obj\Debug\netcoreapp3.1\CA.Interfaces.csprojAssemblyReference.cache
+C:\Users\MUHAMMED\source\repos\CSharpCourse\CA.Interfaces\obj\Debug\netcoreapp3.1\CA.Interfaces.AssemblyInfoInputs.cache
+C:\Users\MUHAMMED\source\repos\CSharpCourse\CA.Interfaces\obj\Debug\netcoreapp3.1\CA.Interfaces.AssemblyInfo.cs
+C:\Users\MUHAMMED\source\repos\CSharpCourse\CA.Interfaces\obj\Debug\netcoreapp3.1\CA.Interfaces.dll
+C:\Users\MUHAMMED\source\repos\CSharpCourse\CA.Interfaces\obj\Debug\netcoreapp3.1\CA.Interfaces.pdb

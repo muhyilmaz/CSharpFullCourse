@@ -1,0 +1,10 @@
+C:\Users\MUHAMMED\source\repos\CSharpCourse\CA.Constructors\bin\Debug\netcoreapp3.1\CA.Constructors.exe
+C:\Users\MUHAMMED\source\repos\CSharpCourse\CA.Constructors\bin\Debug\netcoreapp3.1\CA.Constructors.deps.json
+C:\Users\MUHAMMED\source\repos\CSharpCourse\CA.Constructors\bin\Debug\netcoreapp3.1\CA.Constructors.runtimeconfig.json
+C:\Users\MUHAMMED\source\repos\CSharpCourse\CA.Constructors\bin\Debug\netcoreapp3.1\CA.Constructors.runtimeconfig.dev.json
+C:\Users\MUHAMMED\source\repos\CSharpCourse\CA.Constructors\bin\Debug\netcoreapp3.1\CA.Constructors.dll
+C:\Users\MUHAMMED\source\repos\CSharpCourse\CA.Constructors\bin\Debug\netcoreapp3.1\CA.Constructors.pdb
+C:\Users\MUHAMMED\source\repos\CSharpCourse\CA.Constructors\obj\Debug\netcoreapp3.1\CA.Constructors.AssemblyInfoInputs.cache
+C:\Users\MUHAMMED\source\repos\CSharpCourse\CA.Constructors\obj\Debug\netcoreapp3.1\CA.Constructors.AssemblyInfo.cs
+C:\Users\MUHAMMED\source\repos\CSharpCourse\CA.Constructors\obj\Debug\netcoreapp3.1\CA.Constructors.dll
+C:\Users\MUHAMMED\source\repos\CSharpCourse\CA.Constructors\obj\Debug\netcoreapp3.1\CA.Constructors.pdb

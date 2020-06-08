@@ -1,0 +1,14 @@
+C:\Users\MUHAMMED\source\repos\CSharpCourse\WFA.EntityFrameworkDemo\bin\Debug\WFA.EntityFrameworkDemo.exe.config
+C:\Users\MUHAMMED\source\repos\CSharpCourse\WFA.EntityFrameworkDemo\bin\Debug\WFA.EntityFrameworkDemo.exe
+C:\Users\MUHAMMED\source\repos\CSharpCourse\WFA.EntityFrameworkDemo\bin\Debug\WFA.EntityFrameworkDemo.pdb
+C:\Users\MUHAMMED\source\repos\CSharpCourse\WFA.EntityFrameworkDemo\bin\Debug\EntityFramework.dll
+C:\Users\MUHAMMED\source\repos\CSharpCourse\WFA.EntityFrameworkDemo\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\MUHAMMED\source\repos\CSharpCourse\WFA.EntityFrameworkDemo\bin\Debug\EntityFramework.xml
+C:\Users\MUHAMMED\source\repos\CSharpCourse\WFA.EntityFrameworkDemo\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\MUHAMMED\source\repos\CSharpCourse\WFA.EntityFrameworkDemo\obj\Debug\WFA.EntityFrameworkDemo.csprojAssemblyReference.cache
+C:\Users\MUHAMMED\source\repos\CSharpCourse\WFA.EntityFrameworkDemo\obj\Debug\WFA.EntityFrameworkDemo.Form1.resources
+C:\Users\MUHAMMED\source\repos\CSharpCourse\WFA.EntityFrameworkDemo\obj\Debug\WFA.EntityFrameworkDemo.Properties.Resources.resources
+C:\Users\MUHAMMED\source\repos\CSharpCourse\WFA.EntityFrameworkDemo\obj\Debug\WFA.EntityFrameworkDemo.csproj.GenerateResource.cache
+C:\Users\MUHAMMED\source\repos\CSharpCourse\WFA.EntityFrameworkDemo\obj\Debug\WFA.EntityFrameworkDemo.csproj.CopyComplete
+C:\Users\MUHAMMED\source\repos\CSharpCourse\WFA.EntityFrameworkDemo\obj\Debug\WFA.EntityFrameworkDemo.exe
+C:\Users\MUHAMMED\source\repos\CSharpCourse\WFA.EntityFrameworkDemo\obj\Debug\WFA.EntityFrameworkDemo.pdb

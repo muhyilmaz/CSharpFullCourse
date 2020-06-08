@@ -1,0 +1,11 @@
+C:\Users\MUHAMMED\source\repos\CSharpCourse\CA.VirtualMethod\bin\Debug\netcoreapp3.1\CA.VirtualMethod.exe
+C:\Users\MUHAMMED\source\repos\CSharpCourse\CA.VirtualMethod\bin\Debug\netcoreapp3.1\CA.VirtualMethod.deps.json
+C:\Users\MUHAMMED\source\repos\CSharpCourse\CA.VirtualMethod\bin\Debug\netcoreapp3.1\CA.VirtualMethod.runtimeconfig.json
+C:\Users\MUHAMMED\source\repos\CSharpCourse\CA.VirtualMethod\bin\Debug\netcoreapp3.1\CA.VirtualMethod.runtimeconfig.dev.json
+C:\Users\MUHAMMED\source\repos\CSharpCourse\CA.VirtualMethod\bin\Debug\netcoreapp3.1\CA.VirtualMethod.dll
+C:\Users\MUHAMMED\source\repos\CSharpCourse\CA.VirtualMethod\bin\Debug\netcoreapp3.1\CA.VirtualMethod.pdb
+C:\Users\MUHAMMED\source\repos\CSharpCourse\CA.VirtualMethod\obj\Debug\netcoreapp3.1\CA.VirtualMethod.csprojAssemblyReference.cache
+C:\Users\MUHAMMED\source\repos\CSharpCourse\CA.VirtualMethod\obj\Debug\netcoreapp3.1\CA.VirtualMethod.AssemblyInfoInputs.cache
+C:\Users\MUHAMMED\source\repos\CSharpCourse\CA.VirtualMethod\obj\Debug\netcoreapp3.1\CA.VirtualMethod.AssemblyInfo.cs
+C:\Users\MUHAMMED\source\repos\CSharpCourse\CA.VirtualMethod\obj\Debug\netcoreapp3.1\CA.VirtualMethod.dll
+C:\Users\MUHAMMED\source\repos\CSharpCourse\CA.VirtualMethod\obj\Debug\netcoreapp3.1\CA.VirtualMethod.pdb

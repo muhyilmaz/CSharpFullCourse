@@ -1,0 +1,11 @@
+C:\Users\MUHAMMED\source\repos\CSharpCourse\CA.InterfaceDemo\bin\Debug\netcoreapp3.1\CA.InterfaceDemo.exe
+C:\Users\MUHAMMED\source\repos\CSharpCourse\CA.InterfaceDemo\bin\Debug\netcoreapp3.1\CA.InterfaceDemo.deps.json
+C:\Users\MUHAMMED\source\repos\CSharpCourse\CA.InterfaceDemo\bin\Debug\netcoreapp3.1\CA.InterfaceDemo.runtimeconfig.json
+C:\Users\MUHAMMED\source\repos\CSharpCourse\CA.InterfaceDemo\bin\Debug\netcoreapp3.1\CA.InterfaceDemo.runtimeconfig.dev.json
+C:\Users\MUHAMMED\source\repos\CSharpCourse\CA.InterfaceDemo\bin\Debug\netcoreapp3.1\CA.InterfaceDemo.dll
+C:\Users\MUHAMMED\source\repos\CSharpCourse\CA.InterfaceDemo\bin\Debug\netcoreapp3.1\CA.InterfaceDemo.pdb
+C:\Users\MUHAMMED\source\repos\CSharpCourse\CA.InterfaceDemo\obj\Debug\netcoreapp3.1\CA.InterfaceDemo.AssemblyInfoInputs.cache
+C:\Users\MUHAMMED\source\repos\CSharpCourse\CA.InterfaceDemo\obj\Debug\netcoreapp3.1\CA.InterfaceDemo.AssemblyInfo.cs
+C:\Users\MUHAMMED\source\repos\CSharpCourse\CA.InterfaceDemo\obj\Debug\netcoreapp3.1\CA.InterfaceDemo.dll
+C:\Users\MUHAMMED\source\repos\CSharpCourse\CA.InterfaceDemo\obj\Debug\netcoreapp3.1\CA.InterfaceDemo.pdb
+C:\Users\MUHAMMED\source\repos\CSharpCourse\CA.InterfaceDemo\obj\Debug\netcoreapp3.1\CA.InterfaceDemo.csprojAssemblyReference.cache

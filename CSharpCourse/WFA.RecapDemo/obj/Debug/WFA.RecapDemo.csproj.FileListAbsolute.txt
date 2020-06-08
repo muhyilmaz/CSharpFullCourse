@@ -1,0 +1,9 @@
+C:\Users\MUHAMMED\source\repos\CSharpCourse\WFA.RecapDemo\bin\Debug\WFA.RecapDemo.exe.config
+C:\Users\MUHAMMED\source\repos\CSharpCourse\WFA.RecapDemo\bin\Debug\WFA.RecapDemo.exe
+C:\Users\MUHAMMED\source\repos\CSharpCourse\WFA.RecapDemo\bin\Debug\WFA.RecapDemo.pdb
+C:\Users\MUHAMMED\source\repos\CSharpCourse\WFA.RecapDemo\obj\Debug\WFA.RecapDemo.csprojAssemblyReference.cache
+C:\Users\MUHAMMED\source\repos\CSharpCourse\WFA.RecapDemo\obj\Debug\WFA.RecapDemo.frmMain.resources
+C:\Users\MUHAMMED\source\repos\CSharpCourse\WFA.RecapDemo\obj\Debug\WFA.RecapDemo.Properties.Resources.resources
+C:\Users\MUHAMMED\source\repos\CSharpCourse\WFA.RecapDemo\obj\Debug\WFA.RecapDemo.csproj.GenerateResource.cache
+C:\Users\MUHAMMED\source\repos\CSharpCourse\WFA.RecapDemo\obj\Debug\WFA.RecapDemo.exe
+C:\Users\MUHAMMED\source\repos\CSharpCourse\WFA.RecapDemo\obj\Debug\WFA.RecapDemo.pdb

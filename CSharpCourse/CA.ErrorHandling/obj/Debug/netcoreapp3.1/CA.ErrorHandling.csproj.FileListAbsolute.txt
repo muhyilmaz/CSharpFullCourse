@@ -1,0 +1,10 @@
+C:\Users\MUHAMMED\source\repos\CSharpCourse\CA.ErrorHandling\bin\Debug\netcoreapp3.1\CA.ErrorHandling.exe
+C:\Users\MUHAMMED\source\repos\CSharpCourse\CA.ErrorHandling\bin\Debug\netcoreapp3.1\CA.ErrorHandling.deps.json
+C:\Users\MUHAMMED\source\repos\CSharpCourse\CA.ErrorHandling\bin\Debug\netcoreapp3.1\CA.ErrorHandling.runtimeconfig.json
+C:\Users\MUHAMMED\source\repos\CSharpCourse\CA.ErrorHandling\bin\Debug\netcoreapp3.1\CA.ErrorHandling.runtimeconfig.dev.json
+C:\Users\MUHAMMED\source\repos\CSharpCourse\CA.ErrorHandling\bin\Debug\netcoreapp3.1\CA.ErrorHandling.dll
+C:\Users\MUHAMMED\source\repos\CSharpCourse\CA.ErrorHandling\bin\Debug\netcoreapp3.1\CA.ErrorHandling.pdb
+C:\Users\MUHAMMED\source\repos\CSharpCourse\CA.ErrorHandling\obj\Debug\netcoreapp3.1\CA.ErrorHandling.AssemblyInfoInputs.cache
+C:\Users\MUHAMMED\source\repos\CSharpCourse\CA.ErrorHandling\obj\Debug\netcoreapp3.1\CA.ErrorHandling.AssemblyInfo.cs
+C:\Users\MUHAMMED\source\repos\CSharpCourse\CA.ErrorHandling\obj\Debug\netcoreapp3.1\CA.ErrorHandling.dll
+C:\Users\MUHAMMED\source\repos\CSharpCourse\CA.ErrorHandling\obj\Debug\netcoreapp3.1\CA.ErrorHandling.pdb

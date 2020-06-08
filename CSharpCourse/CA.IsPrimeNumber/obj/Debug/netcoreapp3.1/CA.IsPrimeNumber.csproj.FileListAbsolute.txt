@@ -1,0 +1,11 @@
+C:\Users\MUHAMMED\source\repos\CSharpCourse\CA.IsPrimeNumber\bin\Debug\netcoreapp3.1\CA.IsPrimeNumber.exe
+C:\Users\MUHAMMED\source\repos\CSharpCourse\CA.IsPrimeNumber\bin\Debug\netcoreapp3.1\CA.IsPrimeNumber.deps.json
+C:\Users\MUHAMMED\source\repos\CSharpCourse\CA.IsPrimeNumber\bin\Debug\netcoreapp3.1\CA.IsPrimeNumber.runtimeconfig.json
+C:\Users\MUHAMMED\source\repos\CSharpCourse\CA.IsPrimeNumber\bin\Debug\netcoreapp3.1\CA.IsPrimeNumber.runtimeconfig.dev.json
+C:\Users\MUHAMMED\source\repos\CSharpCourse\CA.IsPrimeNumber\bin\Debug\netcoreapp3.1\CA.IsPrimeNumber.dll
+C:\Users\MUHAMMED\source\repos\CSharpCourse\CA.IsPrimeNumber\bin\Debug\netcoreapp3.1\CA.IsPrimeNumber.pdb
+C:\Users\MUHAMMED\source\repos\CSharpCourse\CA.IsPrimeNumber\obj\Debug\netcoreapp3.1\CA.IsPrimeNumber.csprojAssemblyReference.cache
+C:\Users\MUHAMMED\source\repos\CSharpCourse\CA.IsPrimeNumber\obj\Debug\netcoreapp3.1\CA.IsPrimeNumber.AssemblyInfoInputs.cache
+C:\Users\MUHAMMED\source\repos\CSharpCourse\CA.IsPrimeNumber\obj\Debug\netcoreapp3.1\CA.IsPrimeNumber.AssemblyInfo.cs
+C:\Users\MUHAMMED\source\repos\CSharpCourse\CA.IsPrimeNumber\obj\Debug\netcoreapp3.1\CA.IsPrimeNumber.dll
+C:\Users\MUHAMMED\source\repos\CSharpCourse\CA.IsPrimeNumber\obj\Debug\netcoreapp3.1\CA.IsPrimeNumber.pdb

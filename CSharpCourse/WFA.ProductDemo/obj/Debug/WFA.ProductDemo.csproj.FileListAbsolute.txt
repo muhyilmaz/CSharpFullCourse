@@ -1,0 +1,9 @@
+C:\Users\MUHAMMED\source\repos\CSharpCourse\WFA.ProductDemo\bin\Debug\WFA.ProductDemo.exe.config
+C:\Users\MUHAMMED\source\repos\CSharpCourse\WFA.ProductDemo\bin\Debug\WFA.ProductDemo.exe
+C:\Users\MUHAMMED\source\repos\CSharpCourse\WFA.ProductDemo\bin\Debug\WFA.ProductDemo.pdb
+C:\Users\MUHAMMED\source\repos\CSharpCourse\WFA.ProductDemo\obj\Debug\WFA.ProductDemo.csprojAssemblyReference.cache
+C:\Users\MUHAMMED\source\repos\CSharpCourse\WFA.ProductDemo\obj\Debug\WFA.ProductDemo.frmMain.resources
+C:\Users\MUHAMMED\source\repos\CSharpCourse\WFA.ProductDemo\obj\Debug\WFA.ProductDemo.Properties.Resources.resources
+C:\Users\MUHAMMED\source\repos\CSharpCourse\WFA.ProductDemo\obj\Debug\WFA.ProductDemo.csproj.GenerateResource.cache
+C:\Users\MUHAMMED\source\repos\CSharpCourse\WFA.ProductDemo\obj\Debug\WFA.ProductDemo.exe
+C:\Users\MUHAMMED\source\repos\CSharpCourse\WFA.ProductDemo\obj\Debug\WFA.ProductDemo.pdb

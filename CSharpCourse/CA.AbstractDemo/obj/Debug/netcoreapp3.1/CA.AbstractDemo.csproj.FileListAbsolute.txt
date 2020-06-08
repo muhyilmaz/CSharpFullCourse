@@ -1,0 +1,11 @@
+C:\Users\MUHAMMED\source\repos\CSharpCourse\CA.AbstractDemo\bin\Debug\netcoreapp3.1\CA.AbstractDemo.exe
+C:\Users\MUHAMMED\source\repos\CSharpCourse\CA.AbstractDemo\bin\Debug\netcoreapp3.1\CA.AbstractDemo.deps.json
+C:\Users\MUHAMMED\source\repos\CSharpCourse\CA.AbstractDemo\bin\Debug\netcoreapp3.1\CA.AbstractDemo.runtimeconfig.json
+C:\Users\MUHAMMED\source\repos\CSharpCourse\CA.AbstractDemo\bin\Debug\netcoreapp3.1\CA.AbstractDemo.runtimeconfig.dev.json
+C:\Users\MUHAMMED\source\repos\CSharpCourse\CA.AbstractDemo\bin\Debug\netcoreapp3.1\CA.AbstractDemo.dll
+C:\Users\MUHAMMED\source\repos\CSharpCourse\CA.AbstractDemo\bin\Debug\netcoreapp3.1\CA.AbstractDemo.pdb
+C:\Users\MUHAMMED\source\repos\CSharpCourse\CA.AbstractDemo\obj\Debug\netcoreapp3.1\CA.AbstractDemo.AssemblyInfoInputs.cache
+C:\Users\MUHAMMED\source\repos\CSharpCourse\CA.AbstractDemo\obj\Debug\netcoreapp3.1\CA.AbstractDemo.AssemblyInfo.cs
+C:\Users\MUHAMMED\source\repos\CSharpCourse\CA.AbstractDemo\obj\Debug\netcoreapp3.1\CA.AbstractDemo.dll
+C:\Users\MUHAMMED\source\repos\CSharpCourse\CA.AbstractDemo\obj\Debug\netcoreapp3.1\CA.AbstractDemo.pdb
+C:\Users\MUHAMMED\source\repos\CSharpCourse\CA.AbstractDemo\obj\Debug\netcoreapp3.1\CA.AbstractDemo.csprojAssemblyReference.cache

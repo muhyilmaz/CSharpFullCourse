@@ -1,0 +1,11 @@
+C:\Users\MUHAMMED\source\repos\CSharpCourse\CA.Inheritance\bin\Debug\netcoreapp3.1\CA.Inheritance.exe
+C:\Users\MUHAMMED\source\repos\CSharpCourse\CA.Inheritance\bin\Debug\netcoreapp3.1\CA.Inheritance.deps.json
+C:\Users\MUHAMMED\source\repos\CSharpCourse\CA.Inheritance\bin\Debug\netcoreapp3.1\CA.Inheritance.runtimeconfig.json
+C:\Users\MUHAMMED\source\repos\CSharpCourse\CA.Inheritance\bin\Debug\netcoreapp3.1\CA.Inheritance.runtimeconfig.dev.json
+C:\Users\MUHAMMED\source\repos\CSharpCourse\CA.Inheritance\bin\Debug\netcoreapp3.1\CA.Inheritance.dll
+C:\Users\MUHAMMED\source\repos\CSharpCourse\CA.Inheritance\bin\Debug\netcoreapp3.1\CA.Inheritance.pdb
+C:\Users\MUHAMMED\source\repos\CSharpCourse\CA.Inheritance\obj\Debug\netcoreapp3.1\CA.Inheritance.csprojAssemblyReference.cache
+C:\Users\MUHAMMED\source\repos\CSharpCourse\CA.Inheritance\obj\Debug\netcoreapp3.1\CA.Inheritance.AssemblyInfoInputs.cache
+C:\Users\MUHAMMED\source\repos\CSharpCourse\CA.Inheritance\obj\Debug\netcoreapp3.1\CA.Inheritance.AssemblyInfo.cs
+C:\Users\MUHAMMED\source\repos\CSharpCourse\CA.Inheritance\obj\Debug\netcoreapp3.1\CA.Inheritance.dll
+C:\Users\MUHAMMED\source\repos\CSharpCourse\CA.Inheritance\obj\Debug\netcoreapp3.1\CA.Inheritance.pdb
